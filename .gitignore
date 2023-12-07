@@ -1,2 +1,12 @@
 # Ignore all pdfs
 *.pdf
+    
+    ```
+# Ignorar la carpeta .vscode
+```
+.vscode
+```
+# Ignore .pyc files
+```
+*.pyc
+```
