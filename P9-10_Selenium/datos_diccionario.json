@@ -1,0 +1,377 @@
+﻿{
+  "Company Name": "ENERGIA NUFRI SL",
+  "Offer Name": "ENERGIA NUFRI - 3 PRECIOS",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "12,00 €",
+    "Consumo electricidad": "27,18 € *",
+    "Impuesto sobre electricidad 0,001 €/kWh": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "41,36 €",
+    "IVA": "2,07 €",
+    "Total": "43,43 €"
+  }
+}{
+  "Company Name": "CLEARVIEW ENERGY S.L.",
+  "Offer Name": "Tarifa Óptima Fija (1511)",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "12,57 €",
+    "Consumo electricidad": "26,80 € *",
+    "Impuesto sobre electricidad 0,001 €/kWh": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "41,55 €",
+    "IVA": "2,08 €",
+    "Total": "43,63 €"
+  }
+}{
+  "Company Name": "ENERGYA VM GESTION DE ENERGÍA, S.L",
+  "Offer Name": "Fórmula Fija Única 24HORAS",
+  "Data": {
+    "Término de potencia": "13,01 €",
+    "Consumo electricidad": "27,61 € *",
+    "Impuesto sobre electricidad 0,001 €/kWh": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "41,63 €",
+    "IVA": "2,08 €",
+    "Total": "43,71 €"
+  }
+}{
+  "Company Name": "ENERGYA VM GESTION DE ENERGÍA, S.L",
+  "Offer Name": "Fórmula Fija Única 3 PERIODOS",
+  "Data": {
+    "Término de potencia": "13,01 €",
+    "Consumo electricidad": "27,77 € *",
+    "Impuesto sobre electricidad 0,001 €/kWh": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "41,79 €",
+    "IVA": "2,09 €",
+    "Total": "43,88 €"
+  }
+}{
+  "Company Name": "ENERGIA NUFRI SL",
+  "Offer Name": "ENERGIA NUFRI - 1 PRECIO 24h",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "12,00 €",
+    "Consumo electricidad": "27,82 € *",
+    "Impuesto sobre electricidad 0,001 €/kWh": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "42,00 €",
+    "IVA": "2,10 €",
+    "Total": "44,10 €"
+  }
+}{
+  "Company Name": "DOMESTICA GAS Y ELECTRICIDAD SLU",
+  "Offer Name": "E-Doméstica Luz",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "12,66 €",
+    "Consumo electricidad": "27,38 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "42,22 €",
+    "IVA": "2,11 €",
+    "Total": "44,33 €"
+  }
+}{
+  "Company Name": "IBERDROLA CLIENTES, S.A.U.",
+  "Offer Name": "2.0TD Plan Online (0-10kW)",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "13,32 €",
+    "Consumo electricidad": "26,79 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "42,29 €",
+    "IVA": "2,11 €",
+    "Total": "44,40 €"
+  }
+}{
+  "Company Name": "ENDESA ENERGÍA S.A.U.",
+  "Offer Name": "ONE Luz",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "14,02 €",
+    "Consumo electricidad": "26,19 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "42,39 €",
+    "IVA": "2,12 €",
+    "Total": "44,51 €"
+  }
+}{
+  "Company Name": "ENDESA ENERGÍA S.A.U.",
+  "Offer Name": "ONE 3 Periodos",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "14,02 €",
+    "Consumo electricidad": "26,30 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "42,50 €",
+    "IVA": "2,13 €",
+    "Total": "44,63 €"
+  }
+}{
+  "Company Name": "ENDESA ENERGÍA S.A.U.",
+  "Offer Name": "Conecta Endesa",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "13,44 €",
+    "Consumo electricidad": "27,18 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "42,80 €",
+    "IVA": "2,14 €",
+    "Total": "44,94 €"
+  }
+}{
+  "Company Name": "NATURGY IBERIA, S.A.",
+  "Offer Name": "Por Uso Luz",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "12,84 €",
+    "Consumo electricidad": "27,80 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "42,82 €",
+    "IVA": "2,14 €",
+    "Total": "44,96 €"
+  }
+}{
+  "Company Name": "NATURGY IBERIA, S.A.",
+  "Offer Name": "Noche Luz",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "12,84 €",
+    "Consumo electricidad": "28,06 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "43,08 €",
+    "IVA": "2,15 €",
+    "Total": "45,23 €"
+  }
+}{
+  "Company Name": "IBERDROLA CLIENTES, S.A.U.",
+  "Offer Name": "2.0TD Plan Online 3 Precios (0-10kW)",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "13,32 €",
+    "Consumo electricidad": "28,23 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "43,73 €",
+    "IVA": "2,19 €",
+    "Total": "45,92 €"
+  }
+}{
+  "Company Name": "TOTALENERGIES CLIENTES S.A.U.",
+  "Offer Name": "A TU AIRE SIEMPRE + DIGITAL",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "14,35 €",
+    "Descuento Anual fijo": "0,74 €",
+    "Consumo electricidad": "26,02 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "41,81 €",
+    "IVA": "2,09 €",
+    "Total": "43,90 €"
+  }
+}{
+  "Company Name": "REPSOL COMERCIALIZADORA DE ELECTRICIDAD Y GAS, S.L.U",
+  "Offer Name": "REPSOL TARIFA DISCRIMINACIÓN HORARIA + ahorro hasta 300 € en saldo Waylet",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "11,36 €",
+    "Consumo electricidad": "30,86 € *",
+    "Impuesto sobre electricidad 0,5%": "0,22 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "44,41 €",
+    "IVA": "2,22 €",
+    "Total": "46,63 €"
+  }
+}{
+  "Company Name": "TOTALENERGIES CLIENTES S.A.U.",
+  "Offer Name": "A TU AIRE PROGRAMA TU AHORRO + DIGITAL",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "14,35 €",
+    "Descuento Anual fijo": "0,74 €",
+    "Consumo electricidad": "25,66 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "41,45 €",
+    "IVA": "2,07 €",
+    "Total": "43,52 €"
+  }
+}{
+  "Company Name": "ENDESA ENERGÍA S.A.U.",
+  "Offer Name": "Libre de Endesa 20%",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "14,02 €",
+    "Consumo electricidad": "27,71 € *",
+    "Impuesto sobre electricidad 0,5%": "0,21 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "43,91 €",
+    "IVA": "2,20 €",
+    "Total": "46,11 €"
+  }
+}{
+  "Company Name": "IMAGINA ENERGIA",
+  "Offer Name": "IMAGINA SOLAR CON INSTALACION",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "16,59 €",
+    "Consumo electricidad": "27,18 € *",
+    "Impuesto sobre electricidad 0,5%": "0,22 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "45,96 €",
+    "IVA": "2,30 €",
+    "Total": "48,26 €"
+  }
+}{
+  "Company Name": "ENI PLENITUDE IBERIA, S.L.",
+  "Offer Name": "Tarifa Fácil Luz Hogar",
+  "Data": {
+    "Término de potencia": "22,05 €",
+    "Consumo electricidad": "23,18 € *",
+    "Impuesto sobre electricidad 0,5%": "0,23 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "46,26 €",
+    "IVA": "2,31 €",
+    "Total": "48,57 €"
+  }
+}{
+  "Company Name": "REPSOL COMERCIALIZADORA DE ELECTRICIDAD Y GAS, S.L.U",
+  "Offer Name": "REPSOL TARIFA PLAN AHORRO PLUS",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "14,33 €",
+    "Consumo electricidad": "29,91 € *",
+    "Impuesto sobre electricidad 0,5%": "0,23 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "46,44 €",
+    "IVA": "2,32 €",
+    "Total": "48,76 €"
+  }
+}{
+  "Company Name": "REPSOL COMERCIALIZADORA DE ELECTRICIDAD Y GAS, S.L.U",
+  "Offer Name": "REPSOL TARIFA AHORRO PLUS + ahorro hasta 300 € en saldo Waylet",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "14,33 €",
+    "Consumo electricidad": "29,91 € *",
+    "Impuesto sobre electricidad 0,5%": "0,23 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "46,44 €",
+    "IVA": "2,32 €",
+    "Total": "48,76 €"
+  }
+}{
+  "Company Name": "IMAGINA ENERGIA",
+  "Offer Name": "PLAN NOCHE Y FINDES + PRECIO SIN SUBIDAS 3 AÑOS",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "13,49 €",
+    "Consumo electricidad": "31,60 € *",
+    "Impuesto sobre electricidad 0,5%": "0,23 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "47,29 €",
+    "IVA": "2,36 €",
+    "Total": "49,65 €"
+  }
+}{
+  "Company Name": "COMPAÑIA LUMISA ENERGIAS, SL",
+  "Offer Name": "2.0TD",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "9,54 €",
+    "Consumo electricidad": "35,60 € *",
+    "Impuesto sobre electricidad 0,5%": "0,23 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "47,34 €",
+    "IVA": "2,37 €",
+    "Total": "49,71 €"
+  }
+}{
+  "Company Name": "IBERDROLA CLIENTES, S.A.U.",
+  "Offer Name": "2.0TD Plan Estable 100 (0-10kW)",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "13,32 €",
+    "Descuento Anual fijo": "8,22 €",
+    "Consumo electricidad": "40,38 € *",
+    "Impuesto sobre electricidad 0,5%": "0,23 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "47,68 €",
+    "IVA": "2,38 €",
+    "Total": "50,06 €"
+  }
+}{
+  "Company Name": "WATIUM, S.L.",
+  "Offer Name": "2.0 TD",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "14,59 €",
+    "Consumo electricidad": "31,64 € *",
+    "Impuesto sobre electricidad 0,5%": "0,24 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "48,44 €",
+    "IVA": "2,42 €",
+    "Total": "50,86 €"
+  }
+}{
+  "Company Name": "NEXUS ENERGIA SA",
+  "Offer Name": "Luz Estable",
+  "Data": {
+    "Término de potencia": "18,50 €",
+    "Consumo electricidad": "28,95 € *",
+    "Impuesto sobre electricidad 0,5%": "0,24 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "48,49 €",
+    "IVA": "2,42 €",
+    "Total": "50,91 €"
+  }
+}{
+  "Company Name": "HIDROELECTRICA DE SILLEDA COMERCIALIZADORA, S.L",
+  "Offer Name": "Eficiente 20TD",
+  "Data": {
+    "Término fijo": "1,19 €",
+    "Término de potencia": "9,79 €",
+    "Consumo electricidad": "36,61 € *",
+    "Impuesto sobre electricidad 0,5%": "0,24 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "48,63 €",
+    "IVA": "2,43 €",
+    "Total": "51,06 €"
+  }
+}{
+  "Company Name": "IMAGINA ENERGIA",
+  "Offer Name": "PLAN SIN HORAS 3 AÑOS",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "16,59 €",
+    "Consumo electricidad": "29,96 € *",
+    "Impuesto sobre electricidad 0,5%": "0,24 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "48,76 €",
+    "IVA": "2,44 €",
+    "Total": "51,20 €"
+  }
+}{
+  "Company Name": "TOTALENERGIES CLIENTES S.A.U.",
+  "Offer Name": "A TU AIRE SIEMPRE",
+  "Data": {
+    "Término fijo": "1,17 €",
+    "Término de potencia": "14,35 €",
+    "Consumo electricidad": "29,83 € *",
+    "Impuesto sobre electricidad 0,5%": "0,23 €",
+    "Equipo de medida": "0,80 €",
+    "Total estimado electricidad": "46,38 €",
+    "IVA": "2,32 €",
+    "Total": "48,70 €"
+  }
+}
