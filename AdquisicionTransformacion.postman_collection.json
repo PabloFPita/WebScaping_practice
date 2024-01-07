@@ -1,0 +1,375 @@
+{
+	"info": {
+		"_postman_id": "cfdeedec-4939-4d6f-8493-85aafdf61d56",
+		"name": "AdquisicionTransformacion",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26849989"
+	},
+	"item": [
+		{
+			"name": "CalleAlbertoAguilera",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.mapbox.com/geocoding/v5/mapbox.places/calle%20alberto%20aguilera%2023.json?proximity=ip&access_token={{mapbox_token}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"mapbox",
+						"com"
+					],
+					"path": [
+						"geocoding",
+						"v5",
+						"mapbox.places",
+						"calle%20alberto%20aguilera%2023.json"
+					],
+					"query": [
+						{
+							"key": "proximity",
+							"value": "ip"
+						},
+						{
+							"key": "access_token",
+							"value": "{{mapbox_token}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CalleBarcelo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.mapbox.com/geocoding/v5/mapbox.places/Calle%20De%20Barcelo%201%2C%2028004%20Madrid%2C%20Madrid%2C%20Spain.json?proximity=ip&access_token={{mapbox_token}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"mapbox",
+						"com"
+					],
+					"path": [
+						"geocoding",
+						"v5",
+						"mapbox.places",
+						"Calle%20De%20Barcelo%201%2C%2028004%20Madrid%2C%20Madrid%2C%20Spain.json"
+					],
+					"query": [
+						{
+							"key": "proximity",
+							"value": "ip"
+						},
+						{
+							"key": "access_token",
+							"value": "{{mapbox_token}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Direcciones_aguilera_barcelo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.mapbox.com/directions/v5/mapbox/walking/-3.701172%2C40.426514%3B-3.711452%2C40.429547?alternatives=true&continue_straight=true&geometries=geojson&language=en&overview=full&steps=true&access_token={{mapbox_token}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"mapbox",
+						"com"
+					],
+					"path": [
+						"directions",
+						"v5",
+						"mapbox",
+						"walking",
+						"-3.701172%2C40.426514%3B-3.711452%2C40.429547"
+					],
+					"query": [
+						{
+							"key": "alternatives",
+							"value": "true"
+						},
+						{
+							"key": "continue_straight",
+							"value": "true"
+						},
+						{
+							"key": "geometries",
+							"value": "geojson"
+						},
+						{
+							"key": "language",
+							"value": "en"
+						},
+						{
+							"key": "overview",
+							"value": "full"
+						},
+						{
+							"key": "steps",
+							"value": "true"
+						},
+						{
+							"key": "access_token",
+							"value": "{{mapbox_token}}"
+						}
+					]
+				},
+				"description": "Caminamos de media a 5.184"
+			},
+			"response": []
+		},
+		{
+			"name": "Conseguir URL estaciones AEMET",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "api_key",
+						"value": "nosoylaapikeyreal",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "https://opendata.aemet.es/opendata/api/valores/climatologicos/inventarioestaciones/todasestaciones?api_key={{key_aemet}}",
+					"protocol": "https",
+					"host": [
+						"opendata",
+						"aemet",
+						"es"
+					],
+					"path": [
+						"opendata",
+						"api",
+						"valores",
+						"climatologicos",
+						"inventarioestaciones",
+						"todasestaciones"
+					],
+					"query": [
+						{
+							"key": "api_key",
+							"value": "{{key_aemet}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Listar Estaciones AEMET",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://opendata.aemet.es/opendata/sh/f7857e25",
+					"protocol": "https",
+					"host": [
+						"opendata",
+						"aemet",
+						"es"
+					],
+					"path": [
+						"opendata",
+						"sh",
+						"f7857e25"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "stats_nba",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://stats.nba.com/stats/playercareerstats?LeagueID=00&PerMode=PerGame&PlayerID=977",
+					"protocol": "https",
+					"host": [
+						"stats",
+						"nba",
+						"com"
+					],
+					"path": [
+						"stats",
+						"playercareerstats"
+					],
+					"query": [
+						{
+							"key": "LeagueID",
+							"value": "00"
+						},
+						{
+							"key": "PerMode",
+							"value": "PerGame"
+						},
+						{
+							"key": "PlayerID",
+							"value": "977"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET Twitter sobre la info de mi usuario",
+			"request": {
+				"auth": {
+					"type": "oauth1",
+					"oauth1": [
+						{
+							"key": "addParamsToHeader",
+							"value": true,
+							"type": "boolean"
+						},
+						{
+							"key": "tokenSecret",
+							"value": "{{twitter_access_token_secret}}",
+							"type": "string"
+						},
+						{
+							"key": "token",
+							"value": "{{twitter_access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "consumerSecret",
+							"value": "{{api_key_secret_twitter}}",
+							"type": "string"
+						},
+						{
+							"key": "consumerKey",
+							"value": "{{api_key_twitter}}",
+							"type": "string"
+						},
+						{
+							"key": "signatureMethod",
+							"value": "HMAC-SHA1",
+							"type": "string"
+						},
+						{
+							"key": "version",
+							"value": "1.0",
+							"type": "string"
+						},
+						{
+							"key": "addEmptyParamsToSign",
+							"value": false,
+							"type": "boolean"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.twitter.com/1.1/users/show.json?screen_name=PGaremo",
+					"protocol": "https",
+					"host": [
+						"api",
+						"twitter",
+						"com"
+					],
+					"path": [
+						"1.1",
+						"users",
+						"show.json"
+					],
+					"query": [
+						{
+							"key": "screen_name",
+							"value": "PGaremo",
+							"description": "\n"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Twittear desde post",
+			"request": {
+				"auth": {
+					"type": "oauth1",
+					"oauth1": [
+						{
+							"key": "addParamsToHeader",
+							"value": true,
+							"type": "boolean"
+						},
+						{
+							"key": "signatureMethod",
+							"value": "HMAC-SHA1",
+							"type": "string"
+						},
+						{
+							"key": "tokenSecret",
+							"value": "{{twitter_access_token_secret}}",
+							"type": "string"
+						},
+						{
+							"key": "token",
+							"value": "{{twitter_access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "consumerSecret",
+							"value": "{{api_key_secret_twitter}}",
+							"type": "string"
+						},
+						{
+							"key": "consumerKey",
+							"value": "{{api_key_twitter}}",
+							"type": "string"
+						},
+						{
+							"key": "version",
+							"value": "1.0",
+							"type": "string"
+						},
+						{
+							"key": "addEmptyParamsToSign",
+							"value": false,
+							"type": "boolean"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"text\":\"Success 200 ATBD!\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.twitter.com/2/tweets",
+					"protocol": "https",
+					"host": [
+						"api",
+						"twitter",
+						"com"
+					],
+					"path": [
+						"2",
+						"tweets"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

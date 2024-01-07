@@ -42,7 +42,7 @@ def print_csv(matrix, file_path):
             writer.writerow(row)
 
 # Load the curated matrix from the csv file.
-filename = './PracticasPython/csv_bad_format.csv'
+filename = 'PracticasPython\P5-6_badformat_wikipedia.py\csv_bad_format.csv'
 matrix = load_csv(filename)
 curated_matrix = clean_matrix(matrix)
 print_csv(curated_matrix, filename)

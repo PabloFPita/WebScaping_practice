@@ -10,3 +10,18 @@
 ```
 *.pyc
 ```
+# Ignore folders Practica1 y Practica2
+```
+Practica1
+Practica2
+Practica3
+Practica4
+Practica5
+Practica6
+Practica7
+Practica8
+Practica9
+Practica10
+Practica11
+Practica12
+```
